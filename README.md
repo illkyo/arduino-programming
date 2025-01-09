@@ -1,1 +1,4 @@
-"# arduino-programming" 
+# arduino-programming
+Programming tasks done in the Arduino Programming Language, a language similiar to C++.
+
+Completed in 2023. This was my submission for the coursework component of the module 'Computer Systems Architecture', part of the Computer Science Bachelor's Degree course by UWE (University of West England) for the first year. With this submission I got 81.20 marks out of 100 for the component, a passing grade. A coursework specification document is available in the repo for further reading on assessment details. The group report submitted is also available complete with images of implementation and descriptions of experimentation.
